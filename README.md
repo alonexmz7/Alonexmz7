@@ -9,16 +9,6 @@
   
 ![Profile views](https://komarev.com/ghpvc/?username=alonexmz7&color=blueviolet&style=flat)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1038590507149951077?showDisplayName=true)](https://discord.com/users/1038590507149951077)
-
----
-
-### 📊 GitHub Stats
-
-![Alonex Stats](https://github-readme-stats.vercel.app/api?username=alonexmz7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alonexmz7&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
 ---
 
 ### 🛠️ Languages & Tools
