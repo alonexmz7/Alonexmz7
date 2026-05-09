@@ -2,7 +2,7 @@
 
 ### 👤 About Me
 
-- 🔭 Currently working on: **[SG Priv](https://discord.gg/sgpriv)**
+- 🔭 Currently working on: **[SG Priv](https://discord.gg/sgpriv)** & **[SG Cups](https://discord.gg/cups)**
 - 📫 How to reach me: [Discord](https://discord.com/users/1038590507149951077)
 - 🌍 Location: **Lisbon** 🐐
 - 🔥 Age: 17y
