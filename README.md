@@ -18,9 +18,9 @@
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br /><strong>Python</strong>
     </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" /><br /><strong>Lua</strong>
-    </td>
+     <td align="center" width="130">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br /><strong>PostgreSQL</strong>
+  </td>
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="48" height="48" alt="TypeScript" /><br /><strong>TypeScript</strong>
     </td>
