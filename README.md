@@ -5,7 +5,7 @@
 - 🔭 Currently working on: **[SG Priv](https://discord.gg/sgpriv)** & **[SG Cups](https://discord.gg/cups)**
 - 📫 How to reach me: [Discord](https://discord.com/users/1038590507149951077)
 - 🌍 Location: **Lisbon** 🐐
-- 🔥 Age: 17y
+- 🔥 Age: 18y
   
 ![Profile views](https://komarev.com/ghpvc/?username=alonexmz7&color=blueviolet&style=flat)
 
